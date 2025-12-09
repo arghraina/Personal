@@ -1,0 +1,22 @@
+.val_container{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 98vw;
+    height: 97vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.val_btn{
+    margin: 2%;
+    width: 20%;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+    box-shadow: 1px 1px 30px 10px rgb(238, 184, 202);
+}
